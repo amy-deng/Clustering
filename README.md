@@ -1,2 +1,2 @@
 # Clustering
-A ML algorithm implemented in Python
+Algorithms implemented in Python
